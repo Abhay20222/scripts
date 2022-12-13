@@ -26,3 +26,8 @@ rs.add('db-node1:27017')
 rs.add('db-node2:27017')
 rs.status()
 show dbs
+
+# take the reference of below blowogs
+https://medium.com/@ratulbasak93/mongodb-relication-in-ubuntu-16-04-acd5baf744a3
+https://www.digitalocean.com/community/tutorials/how-to-configure-a-mongodb-replica-set-on-ubuntu-20-04
+https://www.digitalocean.com/community/tutorials/how-to-install-mongodb-on-ubuntu-20-04
