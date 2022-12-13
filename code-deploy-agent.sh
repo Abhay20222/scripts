@@ -1,3 +1,4 @@
+#!/bin/bash
 apt-get update
 apt-get install -y ruby
 wget https://aws-codedeploy-us-east-1.s3.amazonaws.com/releases/codedeploy-agent_1.0-1.1597_all.deb
